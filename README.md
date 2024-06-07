@@ -13,3 +13,7 @@
     4. Memunculkan detail data pada halaman Detail ketika data di klik.
     5. Menampilkan Data User pada halaman profile.
     6. Tampilan bebas sesuai kreativitas masing-masing.
+
+## Masukan
+    - Untuk data response sebaiknya dibuatkan sebuat data class pada modul models agar lebih mudah dalam akses data dan insert ke database jika memang diperlukan
+    
