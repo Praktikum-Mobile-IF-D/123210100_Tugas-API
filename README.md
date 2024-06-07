@@ -15,5 +15,5 @@
     6. Tampilan bebas sesuai kreativitas masing-masing.
 
 ## Masukan
-    - Untuk data response sebaiknya dibuatkan sebuat data class pada modul models agar lebih mudah dalam akses data dan insert ke database jika memang diperlukan
+- Untuk data response sebaiknya dibuatkan sebuat data class pada modul models agar lebih mudah dalam akses data dan insert ke database jika memang diperlukan
     
